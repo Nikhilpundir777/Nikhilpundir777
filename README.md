@@ -10,7 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 **Proficient in languages like Python, JavaScript, and frameworks such as React, Node.js, and TensorFlow.**
+ 
+ 💡 **Passionate about building user-friendly web applications and leveraging data to drive decision-making.**
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
